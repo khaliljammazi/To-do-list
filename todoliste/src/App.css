@@ -1,0 +1,120 @@
+  
+@import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
+
+html {
+  line-height: 1.15;
+  scroll-behavior: smooth
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "RocknRoll One", sans-serif;
+}
+
+body {
+  background: linear-gradient(
+    190deg,
+    rgb(134, 123, 205) 0%,
+    rgb(106, 90, 171) 100%
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: #222;
+  overflow: hidden;
+}
+
+.app {
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+h2{
+  display: inline;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #e1ebfd;
+  text-shadow: 0 0 5px #433aa8, 3px -1px 5px #271c6c;
+}
+
+.header{
+   display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+   
+
+}
+.header button{ 
+     margin-bottom: 7px;
+    }
+.add-btn {
+
+  width: 20px;
+  height: 3.2rem;
+  cursor: pointer;
+  justify-content: space-between;
+}
+
+.liste-container{
+   height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding : 40px 100px;
+}
+.card-container{
+  height: 300px;
+  width: 300px;
+  box-shadow: 0px 3px 50px #A5A5A5;
+
+}
+
+.card-wrapper{
+  width: 270px; 
+  height: 200px; 
+  box-shadow: 0px 3px 50px #A5A5A5;
+  display: flex;
+  flex-direction: column;
+
+  
+  background: rgb(180, 182, 218);
+  background: radial-gradient(
+    circle,
+    hsla(237, 34%, 78%, 0.9) 0%,
+    hsla(219, 88%, 94%, 0.9) 100%
+  );
+
+  margin: 0 1rem 1rem 0;
+
+  border-radius: 0.5rem;
+  padding: 1rem;
+
+  position: relative;
+
+}
+
+.card-top{
+  width: 100%;
+  height: 2%;
+}
+
+.task-holder{
+  width: 100%;
+  height: 98%;
+  padding: 10px 10px;
+  display : flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.card-header{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: fit-content;
+  height: 30px;
+  padding: 1px 1px !important;
+  text-align: center;
+}

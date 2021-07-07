@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/khaliljammazi/To-do-list.git/static/css/main.c514349f.chunk.css",
+    "main.js": "/khaliljammazi/To-do-list.git/static/js/main.40700763.chunk.js",
+    "main.js.map": "/khaliljammazi/To-do-list.git/static/js/main.40700763.chunk.js.map",
+    "runtime-main.js": "/khaliljammazi/To-do-list.git/static/js/runtime-main.cce6dff2.js",
+    "runtime-main.js.map": "/khaliljammazi/To-do-list.git/static/js/runtime-main.cce6dff2.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/khaliljammazi/To-do-list.git/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.afd83867.chunk.js": "/khaliljammazi/To-do-list.git/static/js/2.afd83867.chunk.js",
+    "static/js/2.afd83867.chunk.js.map": "/khaliljammazi/To-do-list.git/static/js/2.afd83867.chunk.js.map",
+    "static/js/3.1360fbf2.chunk.js": "/khaliljammazi/To-do-list.git/static/js/3.1360fbf2.chunk.js",
+    "static/js/3.1360fbf2.chunk.js.map": "/khaliljammazi/To-do-list.git/static/js/3.1360fbf2.chunk.js.map",
+    "index.html": "/khaliljammazi/To-do-list.git/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/khaliljammazi/To-do-list.git/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.c514349f.chunk.css.map": "/khaliljammazi/To-do-list.git/static/css/main.c514349f.chunk.css.map",
+    "static/js/2.afd83867.chunk.js.LICENSE.txt": "/khaliljammazi/To-do-list.git/static/js/2.afd83867.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cce6dff2.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.afd83867.chunk.js",
+    "static/css/main.c514349f.chunk.css",
+    "static/js/main.40700763.chunk.js"
+  ]
+}
